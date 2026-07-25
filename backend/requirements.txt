@@ -1,4 +1,5 @@
 annotated-types==0.8.0
+fastapi==0.136.1
 greenlet==3.5.4
 psycopg2-binary==2.9.12
 pydantic==2.13.4
@@ -8,3 +9,4 @@ python-dotenv==1.2.2
 SQLAlchemy==2.0.51
 typing-inspection==0.4.2
 typing_extensions==4.16.0
+uvicorn==0.46.0
